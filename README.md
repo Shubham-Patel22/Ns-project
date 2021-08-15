@@ -11,9 +11,9 @@
 * Root CA verify both certificate and signed it
 * send to alice and bob container.
 
-### task 2
+### Task 2
 
-*First, we start the server in Bob side by typing:-
-	python3 secure_chat_app.py -s
-*Then, on alice side we type:-
+*First, we start the server in Bob side by typing:-  
+	python3 secure_chat_app.py -s  
+*Then, on alice side we type:-  
 	python3 secure_chat_app.py -c bob1
