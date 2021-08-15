@@ -1,4 +1,4 @@
-## NS assignment 3
+## Secure Chat using OpenSSL and testing MITM attack
 ### Task1
 
 * In task 1 we need CA, alice,bob
